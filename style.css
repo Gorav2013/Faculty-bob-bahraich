@@ -1,0 +1,49 @@
+html {
+    background-color: darkgreen;
+}
+
+nav {
+    display: flex;
+    justify-content: center;
+    color: white;
+}
+
+h1 {
+    text-decoration: wavy;
+    margin: 2% 12%;
+    font-size: x-large;
+    color: white;
+    font-family: 'Lora', serif;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+    font-size: large;
+}
+
+nav img {
+    margin: 6%;
+    width: 10%;
+}
+
+.brainobrain_intro img {
+    width: 98%;
+}
+
+p {
+    color: white;
+    text-align: left;
+    font-size: larger;
+    font-family: 'Dosis', sans-serif;
+}
+
+nav ul {
+    text-align: right;
+    font-family: 'Roboto Slab', serif;
+    list-style-type: none;
+}
+
+video{
+    width: 12%;
+}
